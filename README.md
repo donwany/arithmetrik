@@ -35,6 +35,14 @@ reverse_vector(c(1, 2, 3, 4, 5))
 
 ```
 
+### Test
+```sh
+library(testthat)
+library(arithmetrik)
+
+test_dir("tests/testthat")
+```
+
 ###
 ```sh
 R: This directory will contain the R scripts for each function.
