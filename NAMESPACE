@@ -1,1 +1,8 @@
 exportPattern("^[[:alpha:]]+")
+
+export(add_two_numbers)
+export(multiply_two_numbers)
+export(find_average)
+export(capitalize_string)
+export(reverse_vector)
+

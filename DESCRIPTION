@@ -6,7 +6,9 @@ Author: Theophilus Siameh
 Maintainer: Theophilus Siameh <ts2434@msstate.edu>
 Description: This function helps to do simple arithmetic calculations.
     This package contains five simple R functions
+URL: https://github.com/donwany/arithmetrik
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
+Language: en-US
