@@ -37,8 +37,8 @@ reverse_vector(c(1, 2, 3, 4, 5))
 
 ###
 ```sh
-    R: This directory will contain the R scripts for each function.
-    man: This directory will contain the documentation files.
-    DESCRIPTION: This file will hold package metadata.
-    NAMESPACE: This file will handle package imports and exports.
+R: This directory will contain the R scripts for each function.
+man: This directory will contain the documentation files.
+DESCRIPTION: This file will hold package metadata.
+NAMESPACE: This file will handle package imports and exports.
 ```

@@ -57,7 +57,7 @@ find_average <- function(x) {
 #' @return The first element of the input vector capitalized.
 #' @export
 capitalize_string <- function(x) {
-  toupper(substr(x, 1, 1)) %s+% substr(x, 2, nchar(x))
+  paste0(toupper(substr(x, 1, 1)), substr(x, 2, nchar(x)))
 }
 
 #' Reverse vector
