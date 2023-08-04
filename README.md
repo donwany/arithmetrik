@@ -40,10 +40,11 @@ reverse_vector(c(1, 2, 3, 4, 5))
 library(testthat)
 library(arithmetrik)
 
+test()
 test_dir("tests/testthat")
 ```
 
-###
+### Note
 ```sh
 R: This directory will contain the R scripts for each function.
 man: This directory will contain the documentation files.
